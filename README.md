@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @ksb6723
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ksb6723/ksb6723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+한양대학교 ERICA / 건설환경공학과 / 김성봉
+AI-딥러닝: 최종 프로젝트
+주제: 콘크리트 배합 설계 분석 및 예측
